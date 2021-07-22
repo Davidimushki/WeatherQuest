@@ -1,0 +1,24 @@
+{ "sampleCities":
+[
+     {
+         "city_name": "London",
+         "interval_minutes": 1,
+         "alert_threshold_pct": 10
+     },
+ {
+         "city_name": "New York",
+         "interval_minutes": 1,
+         "alert_threshold_pct": 10
+     },
+ {
+         "city_name": "Jerusalem",
+         "interval_minutes": 1,
+         "alert_threshold_pct": 10
+     },
+     {
+         "city_name": "Tel Aviv",
+         "interval_minutes": 3,
+         "alert_threshold_pct": 20
+     }
+],
+}
